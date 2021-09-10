@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Список дел</title>
+</head>
+<body>
+<h1> Список дел
+    </h1>
+        <input type="text" value="новый элемент списка"/>
+        <button> создать</button>
+        <ol>
+            <li><span></span><input type="checkbox" checked> Почесать кошку
+                <button>❌</button>
+            </li>
+            <li><span></span><input type="checkbox" checked> Полить картошку
+                <button>❌</button>
+            </li>
+            <li><span></span><input type="checkbox" checked> Сложить в лукошко
+                <button>❌</button>
+            </li>
+
+        </ol>
+
+</body>
+</html>
